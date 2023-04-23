@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+ div{
+	height:500px;
+	width:500px;
+	margin:100px;
+	border:2px solid black;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:#ADD8E6;
+}
+p{
+	color:purple;
+	font-size:40px;
+}
